@@ -1,7 +1,6 @@
-- 👋 Hi, I’m hossein safavi(@hsafavi) and welcome to my github page
+hossein safavi
+a developer
 
-  I am fullstack developer
-- 💞️ I’m looking to collaborate on web projects
 - 📫 contact me on
 
     telegram: <a href="https://t.me/h_safavi">@h_safavi</a>
